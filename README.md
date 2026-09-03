@@ -1,4 +1,4 @@
-# Vocal — interface layer
+# Vocal: interface layer
 
 > The contract between the **Vocal** design prototype and the features a
 > developer will build behind it.
